@@ -79,8 +79,7 @@ var instructions = {
         You will be free to view each image for as long as you want before moving
         on to the next. <i>(15 min)</i></p>
         
-        <p>The third part will the same task as the first part. But the order for
-        the images will be randomized. <i>(~ 7 min)</i></p>
+        <p>The third part will be the same task as the first part. <i>(~ 7 min)</i></p>
         
         <p>At the end of the study, we will also ask you some questions about
         yourself. <i>(~ 10 min)</i></p>
@@ -95,7 +94,7 @@ var instructions = {
         </div>`,
     rating1: `
         <div class="introBox">
-        <h1>1st Rating Part</h1>
+        <h1>Rating</h1>
 
         <p>In the first part of the study, you will rate several different images 
         according to how much you like them. You will use a slider ranging from
@@ -113,7 +112,7 @@ var instructions = {
         </div>`,
     viewingMainTask: `
         <div class="introBox">
-        <h1>Viewing Part: Main Task</h1>
+        <h1>Viewing: Main Task</h1>
 
         <p>In the second part of the study you will view the pictures again that you just saw.
         You can think of this part of the study as if you were browsing through an 
@@ -135,7 +134,7 @@ var instructions = {
         </div>`,
     viewingSecondaryTask: `
         <div class="introBox">
-        <h1>Viewing Part: Side Task</h1>
+        <h1>Viewing: Side Task</h1>
 
         <p>While viewing the images, we ask you to pay close attention to the main 
         image. If you pay attention troughout the whole viewing phase we endow 
@@ -162,7 +161,7 @@ var instructions = {
         </div>`,
     viewingSummary: `
         <div class="introBox">
-        <h1>Viewing Part: Summary</h1>
+        <h1>Viewing: Summary</h1>
 
         <p>Remember: You will now view these images for 15 minutes. Look at 
         each image as long as you like to. You can proceed to the next image, 
@@ -180,7 +179,7 @@ var instructions = {
         </div>`,
     rating2: `
         <div class="introBox">
-        <h1>2nd Rating Part</h1>
+        <h1>Rating</h1>
 
         <p>Thank you for completing the second part of our study.</p>
 
