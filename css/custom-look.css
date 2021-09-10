@@ -1,0 +1,71 @@
+.jspsych-btn {
+	padding: 10px 20px;
+	border-radius: 12px;
+	color: #fff;
+	background-color: #8a8a8a; /* #007ACC */
+}
+
+.jspsych-btn:hover {
+	background-color: #646464; /* #0060a1 */
+	border-color: #aaa;
+}
+
+.jspsych-display-element textarea {
+	font-family: 'Open Sans', 'Arial', sans-serif;
+	font-size: 16px;
+}
+
+
+.introBox {
+	max-width: 800px;
+}
+
+.consentBox {
+	max-width: 1200px;
+}
+
+.introImage {
+	height: 200px;
+	width: 200px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.centerContainer {
+	display: inline-block;
+	position: relative;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.centerImage {
+	position: relative;
+}
+
+.overlayAttentionCheck {
+	visibility: hidden;
+	cursor: pointer;
+	position: absolute;
+	top: 165px;
+	left: 165px;
+}
+
+.feedbackAttentionCheck {
+	visibility: hidden;
+	color: red;
+	padding: 20px 0px;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+.spaceUnderneath {
+	margin-bottom: 50px;
+}
