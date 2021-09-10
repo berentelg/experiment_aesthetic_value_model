@@ -183,8 +183,7 @@ var instructions = {
 
         <p>Thank you for completing the second part of our study.</p>
 
-        <p>In the third part, you will rate the images again. This part is equal to
-        the first part except that the images are presented in a different order.</p>
+        <p>You will new rate the images you saw again based on how much you like them.</p>
         
         <p>Remember, try to use the full range of the slider. That is, rate the image
         you like the least 'not at all' and the image you liked the most 'very much'.
