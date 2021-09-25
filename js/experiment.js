@@ -57,7 +57,7 @@ var instructions = {
         anonymous.</p>
 
         <p>If you have any questions about the study, feel free to contact our lab. 
-        Dr. Dayan and his lab members can be reached at kyblab.tuebingen@gmail.com.</p>
+        Dr. Dayan and his lab members can be reached at kyblab.tuebingen+aesthetics@gmail.com</p>
 
         <p>By selecting the 'consent' option below, I acknowledge that I am 18 years or 
         older, that I am a fluent speaker of English, that I have read this consent 
@@ -210,8 +210,8 @@ var instructions = {
         <h1>Thank you for participating in our study!</h1>
 
         <p>For any questions or comments please refer to:<br>
-        <a href="mailto: kyblab.tuebingen@gmail.com?subject=Feedback Aesthetics Experiment">
-        kyblab.tuebingen@gmail.com</a></p>
+        <a href="mailto: kyblab.tuebingen+aesthetics@gmail.com?subject=Feedback Aesthetics Experiment">
+        kyblab.tuebingen+aesthetics@gmail.com</a></p>
 
         <p>You can close this window now.</p>
         </div>`
@@ -1028,7 +1028,7 @@ var id = jsPsych.randomization.randomID(5);
 //console.log("ID: ", id);
 
 // version number
-var version = "V2-20210910";
+var version = "V3-20210925";
 console.log("Version: ", version);
 
 // add to each trial
