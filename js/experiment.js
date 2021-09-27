@@ -1019,16 +1019,15 @@ function twoDigit(n) {
     }
 }
 const date = year + twoDigit(month + 1) + twoDigit(day);
-const time = twoDigit(hour) + twoDigit(minute);
+const time = twoDigit(hour) + "" + twoDigit(minute);
 const timestamp  = date + "_" + time;
-//console.log("Timestamp: ", timestamp);
 
 // id
 var id = jsPsych.randomization.randomID(5);
 //console.log("ID: ", id);
 
 // version number
-var version = "V3-20210925";
+var version = "V4-20210927";
 console.log("Version: ", version);
 
 // add to each trial
